@@ -1,8 +1,4 @@
 // ./gradlew clean build generateRelease
-plugins {
-    id 'maven-publish'
-}
-
 apply plugin: 'maven-publish'
 
 
